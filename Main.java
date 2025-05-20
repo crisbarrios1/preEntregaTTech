@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Main {
     
-
     static ArrayList<Productos> lista = new ArrayList<>();
     static Scanner entrada = new Scanner(System.in);
 
